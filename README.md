@@ -1,1 +1,1 @@
-Studing basic algorithms and data structures from "Grokking algorithms" book
+Studyng basic algorithms and data structures from "Grokking algorithms" book
